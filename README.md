@@ -1,7 +1,7 @@
 # muti-Question Generation model
 
 ## Overview
-This repo is the official implementation of Diversity Enhanced Narrative Question Generation for Storybooks.
+This repo is the official implementation of [Diversity Enhanced Narrative Question Generation for Storybooks](https://aclanthology.org/2023.emnlp-main.31.pdf).
 
 ## Tested Environment
 - Python 3.10.6
