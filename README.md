@@ -27,3 +27,15 @@ Third, run mQG_generate.py
 
 If you'd like to train the model, you can download the FairytaleQA dataset from [here](https://huggingface.co/datasets/WorkInTheDark/FairytaleQA).
 
+## Citation
+
+'''
+@inproceedings{yoon-bak-2023-diversity,
+    title = "Diversity Enhanced Narrative Question Generation for Storybooks",
+    author = "Yoon, Hokeun  and
+      Bak, JinYeong",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.31",
+}
+
+'''
